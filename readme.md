@@ -10,7 +10,7 @@ If you want to learn python, coming from a java paradigm and have more of java c
 
 # A note for you :)
 I add content in this in my free time(mostly weekends) or sometimes in weekdays when i am early from office. This is still in progress and lots of things are yet to be added. 
-Please feel free to fork and back something valuable, will really appretiate that!! Meanwhile I will keep adding and updating the content.
+Please feel free to fork and add back something valuable, will really appretiate that!! Meanwhile I will keep adding and updating the content.
 
 
 <h3>Some basics to keep here: </h3>
