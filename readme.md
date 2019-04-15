@@ -1,4 +1,20 @@
-# Popular Python runtimes
+# Welcome to Python
+
+If you want to learn python, coming from a java paradigm and have more of java coding style in your blood! You have just landed on right page :-).
+- Here a folder structure is followed to handle different use-cases one struggles through like how classes are created, how to achive inheritance and create abstract classes, what are generators and why we should use them, some best practices etc etc. 
+- All of these things are folder names only. Go inside the topic you want to learn , there is a readme prepared specifically for that topic to boost up your learning then if you feel like you can check out the code as well. Happy Learning!!
+
+<h4>What this is not?</h4>
+- This is not a beginners to advanced type of tutorials. This is basically a topic wise tutorial which can be a folder name, this can be a best practice or some "how to" or some boiler plate  which can be another folder name and so on.
+- I have intentionally kept the design open as many topics can depend on one another and some things should go together to make sense out of it. 
+
+# A note for you :)
+I add content in this in my free time(mostly weekends) or sometimes in weekdays when i am early from office. This is still in progress and lots of things are yet to be added. 
+Please feel free to fork and back something valuable, will really appretiate that!! Meanwhile I will keep adding and updating the content.
+
+
+<h3>Some basics to keep here: </h3>
+<h4> Popular Python runtimes<h4>
 
 CPython
 Jython
