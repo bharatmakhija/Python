@@ -34,3 +34,4 @@ print(t.__dict__) # {'name': 'name', 'crap': <__main__.Crap object at 0x7ff8ec1b
 
 # As we can see its printing python object, so we want that all classes should automatically get converted to dict object
 
+print("We can create a generic mixin class to do this for us")
