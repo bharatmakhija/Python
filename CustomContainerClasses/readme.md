@@ -7,6 +7,6 @@
 
 ### simply read OccuranceCount.py and you will understand :) 
 
-Meanwhile what we can do with python list containers:
+Meanwhile what we can do with python list containers is shown in image below:
 
-![](images/pythonlistfunctions.png)
+![](pythonlistfunctions.png)
