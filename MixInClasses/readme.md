@@ -6,7 +6,7 @@
 
 These classes can be best used for writing generic functionality.
 Also using multiple-inheritance with these is a good idea to avoid repetative code. Infact take it as a rule
-### Use Multiple Inheritance with mixin utility classes only.
+
  
  
  

@@ -1,23 +1,23 @@
 # Any class which will extend this class can be converted to dictionary directly
 # This is a generic mixin class that will convert any class to dictionary!!
-class ToDictMixin(object):
+class MyDictMixin(object):
 
-    def to_dict(self):
+    def convert_to_dict(self):
         return self._traverse_dict(self.__dict__) # top layer class is converted to dict and forwarderd
         print(self.__dict__) # so what comes here as self is tree object which is converted to __dict__
 
 
-    def _traverse_dict(self, dict_instance):
+    def _traverse_dict(self, current_dict_instance):
         output = {}
-        for key, value in dict_instance.items():
+        for key, value in current_dict_instance.items():
             output[key] = self._traverse(value)
         return output
 
 
 
     def _traverse(self, value):
-        if isinstance(value, ToDictMixin):
-            return value.to_dict()
+        if isinstance(value, MyDictMixin):
+            return value.convert_to_dict()
         elif isinstance(value, dict):
             return self._traverse_dict(value)
         elif isinstance(value, list):
@@ -30,7 +30,7 @@ class ToDictMixin(object):
 
 
 
-class BinaryTree(ToDictMixin):
+class BinaryTree(MyDictMixin):
 
     def __init__(self, value=None, left=None, right=None):
         self.value = value
@@ -38,6 +38,6 @@ class BinaryTree(ToDictMixin):
         self.right = right
 
 tree = BinaryTree(1,left=BinaryTree(2,left=BinaryTree(1,2,3),right=BinaryTree(4,5,6)), right=BinaryTree(4,5,6))
-print(tree.to_dict())
+print(tree.convert_to_dict())
 
 
