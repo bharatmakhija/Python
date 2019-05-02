@@ -89,3 +89,18 @@ pip freeze > requirements.txt
 
 - make sure venv is active so that dependencies are being picked from there only rather than global python packages.
 
+[L1]: https://www.tutorialspoint.com/python3/python_database_access.htm
+[L2]: https://www.tutorialspoint.com/python3/python_multithreading.htm
+[L3]: https://github.com/bharatmakhija/Python/tree/master/CustomMapReduce
+[L4]: https://github.com/bharatmakhija/Python/tree/master/Generators
+[L5]: https://github.com/bharatmakhija/Python/blob/master/PythonCollectionModule/my_counter.ipynb
+
+### Quick Links
+[Create custom map-reduce][L3]   
+[Generators][L4]   
+[Working with counters][L5]
+
+### References
+
+[Tutorial Points: Database Access using python 3][L1]   
+[Multi-Threading][L2]
