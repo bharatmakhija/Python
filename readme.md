@@ -94,13 +94,13 @@ pip freeze > requirements.txt
 [L3]: https://github.com/bharatmakhija/Python/tree/master/CustomMapReduce
 [L4]: https://github.com/bharatmakhija/Python/tree/master/Generators
 [L5]: https://github.com/bharatmakhija/Python/blob/master/PythonCollectionModule/my_counter.ipynb
-
+[L6]: https://github.com/bharatmakhija/Python/blob/master/PythonCollectionModule/
 ### Quick Links
 [Create custom map-reduce][L3]   
 [Generators][L4]   
-[Working with counters][L5]
+[Working with counters][L5]   
+[Python Collection Modules][L6]
 
 ### References
-
 [Tutorial Points: Database Access using python 3][L1]   
 [Multi-Threading][L2]
