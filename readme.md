@@ -124,6 +124,7 @@ pip freeze > requirements.txt
 [L33]: https://github.com/bharatmakhija/Python/tree/master/Threading
 [L34]: https://github.com/bharatmakhija/Python/tree/master/WorkingWithOsPackage
 [L35]: https://github.com/bharatmakhija/Python/tree/master/SendingEmails
+[L36]: https://github.com/bharatmakhija/Python/tree/master/WorkingWithRestAPI
 
 ### Quick Links
 <h4>A</h4>   
@@ -189,7 +190,9 @@ pip freeze > requirements.txt
 
 <h4>R</h4>   
 
+[Rest-API Basics][L36]   
 [Random Number generator][L22]   
+
 <h4>S</h4>   
 
 [Strings][L32]   
