@@ -1,0 +1,15 @@
+
+{
+    "python.pythonPath": "D:\\work\\virtualenv\\myenv\\Scripts\\python.exe",
+    "files.autoSave": "onFocusChange", // this configuration automatically saves file when you move to another file.
+    "python.analysis.cachingLevel": "Default",
+    "python.formatting.provider": "autopep8", // for python, if you want to use pep8 formatting, set this in project
+    "python.autoComplete.addBrackets": true,
+    "terminal.explorerKind": "integrated",
+    "debug.enableAllHovers": true, // while debugging if you want to see values everywhere you hoverover then set this
+    "debug.showInlineBreakpointCandidates": true, // this suggests further lines that can be added as breakpoints
+    "markdown.preview.scrollEditorWithPreview":  true, //
+    "markdown.preview.doubleClickToSwitchToEditor": true ,
+    "markdown.preview.scrollPreviewWithEditor": true
+    
+}
