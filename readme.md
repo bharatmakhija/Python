@@ -125,12 +125,15 @@ pip freeze > requirements.txt
 [L34]: https://github.com/bharatmakhija/Python/tree/master/WorkingWithOsPackage
 
 ### Quick Links
-<h4>A</h4>
+<h4>A</h4>   
+
 [Abstract Class][L16]   
 [Attributes][L25]   
-<h4>B</h4>
+<h4>B</h4>   
+
 [Best Practice: Return exception than None][L27]   
-<h4>C</h4>
+<h4>C</h4>   
+
 [Comprehension][L12]   
 [Closures][L7]   
 [Class Methods][L8]   
@@ -140,60 +143,79 @@ pip freeze > requirements.txt
 [Class Creation][L14]   
 [Container classes][L15]   
 
-<h4>D</h4>
+<h4>D</h4>   
+
 [Decorators][L18]   
 [Datetime in python][L17]   
 [Download file from url][L19]   
-<h4>E</h4>
+<h4>E</h4>   
+
 [Empty String handling][L23]   
 [Exceptions raising][L26]   
 [Returning Exceptions][L27]   
-<h4>F</h4>
+<h4>F</h4>   
+
 [Functions][L21]   
 [File Handling][L20]   
-<h4>G</h4>
+<h4>G</h4>   
+
 [Generators][L4]   
-<h4>H</h4>
-<h4>I</h4>
+<h4>H</h4>   
+
+<h4>I</h4>   
+
 [Iterators][L11]   
 [Inheritance][L9]   
 <h4>J</h4>
 <h4>K</h4>
 <h4>L</h4>
-<h4>M</h4>
+<h4>M</h4>   
+
 [MixInClasses][L10]   
 [custom map-reduce][L3]   
-<h4>N</h4>
+<h4>N</h4>   
+
 [Non Zero empty string handling][L23]   
-<h4>O</h4>
+<h4>O</h4>   
+
 [OOP Basic][L14]   
 [Optional Parameters][L24]   
 [OS Package python][L34]   
-<h4>P</h4>
+<h4>P</h4>   
+
 [Public vs Private attributes][L25]   
-<h4>Q</h4>
-<h4>R</h4>
+<h4>Q</h4>   
+
+<h4>R</h4>   
+
 [Random Number generator][L22]   
-<h4>S</h4>
+<h4>S</h4>   
+
 [Strings][L32]   
 [Sorting][L28]   
 [Splitwise: Python App][L29]   
 [SSH with Python][L30]   
 [StandardMethodResolutionOrder][L31]   
-<h4>T</h4>
-[Threading][L33]   
-<h4>U</h4>
-<h4>V</h4>
-<h4>W</h4>
-<h4>X</h4>
-<h4>Y</h4>
-<h4>Z</h4>  
+<h4>T</h4>   
+
+[Multi-Threading][L2]
+<h4>U</h4>   
+
+<h4>V</h4>   
+
+<h4>W</h4>   
+
+<h4>X</h4>   
+
+<h4>Y</h4>   
+
+<h4>Z</h4>   
+
 
 
 
    
    
-
 
 
 
