@@ -123,6 +123,7 @@ pip freeze > requirements.txt
 [L32]: https://github.com/bharatmakhija/Python/tree/master/Strings
 [L33]: https://github.com/bharatmakhija/Python/tree/master/Threading
 [L34]: https://github.com/bharatmakhija/Python/tree/master/WorkingWithOsPackage
+[L35]: https://github.com/bharatmakhija/Python/tree/master/SendingEmails
 
 ### Quick Links
 <h4>A</h4>   
@@ -196,6 +197,8 @@ pip freeze > requirements.txt
 [Splitwise: Python App][L29]   
 [SSH with Python][L30]   
 [StandardMethodResolutionOrder][L31]   
+[SendingEmails using smtplib][L35]   
+
 <h4>T</h4>   
 
 [Multi-Threading][L2]
