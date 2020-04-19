@@ -95,11 +95,107 @@ pip freeze > requirements.txt
 [L4]: https://github.com/bharatmakhija/Python/tree/master/Generators
 [L5]: https://github.com/bharatmakhija/Python/blob/master/PythonCollectionModule/my_counter.ipynb
 [L6]: https://github.com/bharatmakhija/Python/blob/master/PythonCollectionModule/
+[L7]: https://github.com/bharatmakhija/Python/tree/master/Closures
+[L8]: https://github.com/bharatmakhija/Python/tree/master/ClassMethodsInPython
+[L9]: https://github.com/bharatmakhija/Python/tree/master/Inheritance
+[L10]: https://github.com/bharatmakhija/Python/tree/master/MixInClasses
+[L11]: https://github.com/bharatmakhija/Python/tree/master/Iterators
+[L12]: https://github.com/bharatmakhija/Python/tree/master/Comprehension
+[L13]: https://github.com/bharatmakhija/Python/tree/master/ConvertClassToDictionary
+[L14]: https://github.com/bharatmakhija/Python/tree/master/CreatingAClass
+[L15]: https://github.com/bharatmakhija/Python/tree/master/CustomContainerClasses
+[L16]: https://github.com/bharatmakhija/Python/tree/master/CreatingAbstactClass
+[L17]: https://github.com/bharatmakhija/Python/tree/master/DateTime
+[L18]: https://github.com/bharatmakhija/Python/tree/master/Decorators
+[L19]: https://github.com/bharatmakhija/Python/tree/master/DownloadFileFromUrl
+[L20]: https://github.com/bharatmakhija/Python/tree/master/FileHandling
+[L21]: https://github.com/bharatmakhija/Python/tree/master/Functions
+[L22]: https://github.com/bharatmakhija/Python/tree/master/GenerateRandomNumber
+[L23]: https://github.com/bharatmakhija/Python/tree/master/None_Zero_EmptyString
+[L24]: https://github.com/bharatmakhija/Python/tree/master/OptionalParameters
+[L25]: https://github.com/bharatmakhija/Python/tree/master/PublicVsPrivateAttributes
+[L26]:https://github.com/bharatmakhija/Python/tree/master/RaisingExceptions
+[L27]: https://github.com/bharatmakhija/Python/tree/master/ReturnExceptionThanNone
+[L28]: https://github.com/bharatmakhija/Python/tree/master/Sorting
+[L29]: https://github.com/bharatmakhija/Python/tree/master/Splitwise
+[L30]: https://github.com/bharatmakhija/Python/tree/master/SshWithPython
+[L31]: https://github.com/bharatmakhija/Python/tree/master/StandardMethodResolutionOrder
+[L32]: https://github.com/bharatmakhija/Python/tree/master/Strings
+[L33]: https://github.com/bharatmakhija/Python/tree/master/Threading
+[L34]: https://github.com/bharatmakhija/Python/tree/master/WorkingWithOsPackage
+
 ### Quick Links
-[Create custom map-reduce][L3]   
-[Generators][L4]   
-[Working with counters][L5]   
-[Python Collection Modules][L6]
+<h4>A</h4>
+[Abstract Class][L16]
+[Attributes][L25]
+<h4>B</h4>
+[Best Practice: Return exception than None][L27]
+<h4>C</h4>
+[Comprehension][L12]
+[Closures][L7]
+[Class Methods][L8]
+[counters][L5]
+[Collection Modules][L6]
+[Class to Dictionary converter][L13]
+[Class Creation][L14]
+[Container classes][L15]
+
+<h4>D</h4>
+[Decorators][L18]
+[Datetime in python][L17]
+[Download file from url][L19]
+<h4>E</h4>
+[Empty String handling][L23]
+[Exceptions raising][L26]
+[Returning Exceptions][L27]
+<h4>F</h4>
+[Functions][L21]
+[File Handling][L20]
+<h4>G</h4>
+[Generators][L4]
+<h4>H</h4>
+<h4>I</h4>
+[Iterators][L11]
+[Inheritance][L9]
+<h4>J</h4>
+<h4>K</h4>
+<h4>L</h4>
+<h4>M</h4>
+[MixInClasses][L10]
+[custom map-reduce][L3] 
+<h4>N</h4>
+[Non Zero empty string handling][L23]
+<h4>O</h4>
+[OOP Basic][L14]
+[Optional Parameters][L24]
+[OS Package python][L34]
+<h4>P</h4>
+[Public vs Private attributes][L25]
+<h4>Q</h4>
+<h4>R</h4>
+[Random Number generator][L22]
+<h4>S</h4>
+[Strings][L32]
+[Sorting][L28]
+[Splitwise: Python App][L29]
+[SSH with Python][L30]
+[StandardMethodResolutionOrder][L31]
+<h4>T</h4>
+[Threading][L33]
+<h4>U</h4>
+<h4>V</h4>
+<h4>W</h4>
+<h4>X</h4>
+<h4>Y</h4>
+<h4>Z</h4>  
+
+
+
+   
+   
+
+
+
 
 ### References
 [Tutorial Points: Database Access using python 3][L1]   
