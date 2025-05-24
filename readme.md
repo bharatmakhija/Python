@@ -162,31 +162,55 @@ pip freeze > requirements.txt
 <h4>G</h4>   
 
 [Generators][L4]   
-<h4>H</h4>   
+
+<h4>H</h4>
+
+[Handling Files][L20]  
+[HTTP Requests][L36]
 
 <h4>I</h4>   
 
 [Iterators][L11]   
 [Inheritance][L9]   
+
+
 <h4>J</h4>
+
+[JSON Handling](https://docs.python.org/3/library/json.html)  
+[Jupyter Notebook Basics](https://jupyter.org/documentation)
+
 <h4>K</h4>
+
+[Keyword Arguments](https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments)
+
 <h4>L</h4>
+
+[Lambda Functions](https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions)  
+[Logging](https://docs.python.org/3/library/logging.html)
+
 <h4>M</h4>   
 
 [MixInClasses][L10]   
 [custom map-reduce][L3]   
+
 <h4>N</h4>   
 
 [Non Zero empty string handling][L23]   
+
 <h4>O</h4>   
 
 [OOP Basic][L14]   
 [Optional Parameters][L24]   
 [OS Package python][L34]   
+
 <h4>P</h4>   
 
 [Public vs Private attributes][L25]   
+
 <h4>Q</h4>   
+
+
+[Queue Module](https://docs.python.org/3/library/queue.html)
 
 <h4>R</h4>   
 
@@ -205,25 +229,31 @@ pip freeze > requirements.txt
 <h4>T</h4>   
 
 [Multi-Threading][L2]
-<h4>U</h4>   
 
-<h4>V</h4>   
+<h4>U</h4>
 
-<h4>W</h4>   
+[Unit Testing](https://docs.python.org/3/library/unittest.html)   
 
-<h4>X</h4>   
+<h4>V</h4>
 
-<h4>Y</h4>   
+[Virtual Environments](https://docs.python.org/3/library/venv.html)
 
-<h4>Z</h4>   
+<h4>W</h4>
 
+[Working with OS Package][L34]  
+[Web Scraping](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 
+<h4>X</h4>
 
+[XML Parsing](https://docs.python.org/3/library/xml.etree.elementtree.html)
 
-   
-   
+<h4>Y</h4>
 
+[YAML Parsing](https://pyyaml.org/wiki/PyYAMLDocumentation)
 
+<h4>Z</h4>
+
+[Zip Files](https://docs.python.org/3/library/zipfile.html)
 
 ### References
 [Tutorial Points: Database Access using python 3][L1]   
